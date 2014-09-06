@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list id="789ebad1-0ba3-44a7-b268-72045c66d246" name="Default" comment="" />
+    <list default="true" id="9e82d0fc-3e82-47d7-b088-967b8bdf2012" name="Message" comment="" />
+    <ignored path="Release02.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="lib/js/plugins/ckeditor/skins/" />
+    <ignored path="lib/js/plugins/ckeditor/skins/moono/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/tabletools/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/tabletools/dialogs/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/wsc/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/wsc/dialogs/" />
+    <ignored path="lib/js/plugins/ckeditor/skins/moono/images/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/table/dialogs/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/table/" />
+    <ignored path="lib/js/plugins/iCheck/" />
+    <ignored path="lib/js/plugins/input-mask/" />
+    <ignored path="lib/js/plugins/fullcalendar/" />
+    <ignored path="lib/js/plugins/datatables/" />
+    <ignored path="lib/js/plugins/colorpicker/" />
+    <ignored path="lib/js/plugins/ckeditor/skins/moono/images/hidpi/" />
+    <ignored path="lib/js/plugins/flot/" />
+    <ignored path="lib/js/plugins/daterangepicker/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/a11yhelp/dialogs/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/a11yhelp/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/pastefromword/filter/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/scayt/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/magicline/images/hidpi/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/pastefromword/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/specialchar/dialogs/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/specialchar/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/specialchar/dialogs/lang/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/scayt/dialogs/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/clipboard/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/about/dialogs/hidpi/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/about/dialogs/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/about/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/fakeobjects/images/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/fakeobjects/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/dialog/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/clipboard/dialogs/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/link/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/link/dialogs/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/image/images/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/image/dialogs/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/image/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/magicline/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/magicline/images/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/link/images/hidpi/" />
+    <ignored path="lib/js/plugins/ckeditor/plugins/link/images/" />
+    <ignored path="lib/js/plugins/ckeditor/" />
+    <ignored path="lib/js/plugins/ckeditor/adapters/" />
+    <ignored path="lib/js/plugins/" />
+    <ignored path="lib/js/plugins/bootstrap-wysihtml5/" />
+    <ignored path="lib/js/plugins/bootstrap-slider/" />
+    <ignored path="lib/js/" />
+    <ignored path="lib/js/AdminLTE/" />
+    <ignored path="lib/img/credit/" />
+    <ignored path="lib/img/bootstrap-colorpicker/" />
+    <ignored path="lib/img/" />
+    <ignored path="lib/js/plugins/ckeditor/lang/" />
+    <ignored path="lib/css/iCheck/polaris/" />
+    <ignored path="lib/css/iCheck/square/" />
+    <ignored path="lib/css/iCheck/minimal/" />
+    <ignored path="lib/css/jvectormap/" />
+    <ignored path="lib/fonts/" />
+    <ignored path="lib/css/timepicker/" />
+    <ignored path="lib/css/morris/" />
+    <ignored path="lib/css/jQueryUI/images/" />
+    <ignored path="lib/css/jQueryUI/" />
+    <ignored path="lib/css/ionslider/" />
+    <ignored path="lib/css/images/" />
+    <ignored path=".idea/scopes/" />
+    <ignored path=".idea/" />
+    <ignored path="system/libraries/javascript/" />
+    <ignored path="system/database/drivers/odbc/" />
+    <ignored path="system/database/drivers/oci8/" />
+    <ignored path="system/database/drivers/mysqli/" />
+    <ignored path="system/database/drivers/mysql/" />
+    <ignored path="system/database/drivers/mssql/" />
+    <ignored path="system/helpers/" />
+    <ignored path="system/fonts/" />
+    <ignored path="system/database/drivers/sqlsrv/" />
+    <ignored path="system/database/drivers/sqlite/" />
+    <ignored path="system/database/drivers/postgre/" />
+    <ignored path="system/database/drivers/pdo/" />
+    <ignored path="system/language/english/" />
+    <ignored path="system/language/" />
+    <ignored path="system/libraries/Cache/drivers/" />
+    <ignored path="system/libraries/" />
+    <ignored path="system/libraries/Cache/" />
+    <ignored path="lib/js/plugins/slimScroll/" />
+    <ignored path="lib/js/plugins/morris/" />
+    <ignored path="lib/js/plugins/timepicker/" />
+    <ignored path="lib/js/plugins/sparkline/" />
+    <ignored path="lib/js/plugins/ionslider/" />
+    <ignored path="lib/js/plugins/input-mask/phone-codes/" />
+    <ignored path="lib/js/plugins/misc/" />
+    <ignored path="lib/js/plugins/jqueryKnob/" />
+    <ignored path="lib/js/plugins/jvectormap/" />
+    <ignored path="lib/pages/" />
+    <ignored path="lib/pages/UI/" />
+    <ignored path="lib/less/" />
+    <ignored path="lib/pages/forms/" />
+    <ignored path="lib/pages/tables/" />
+    <ignored path="style/" />
+    <ignored path="lib/pages/charts/" />
+    <ignored path="lib/pages/examples/" />
+    <ignored path="system/database/" />
+    <ignored path="system/database/drivers/" />
+    <ignored path="system/database/drivers/cubrid/" />
+    <ignored path="system/core/" />
+    <ignored path="system/" />
+    <ignored path="application/libraries/" />
+    <ignored path="application/logs/" />
+    <ignored path="application/helpers/" />
+    <ignored path="application/hooks/" />
+    <ignored path="application/language/" />
+    <ignored path="application/language/english/" />
+    <ignored path="application/fonts/" />
+    <ignored path="application/core/" />
+    <ignored path="application/errors/" />
+    <ignored path="application/views/fonts/" />
+    <ignored path="application/views/css/" />
+    <ignored path="application/views/common/" />
+    <ignored path="application/third_party/" />
+    <ignored path="application/views/" />
+    <ignored path="application/views/administration/" />
+    <ignored path="application/models/" />
+    <ignored path="application/adminassets/css/" />
+    <ignored path="application/adminassets/" />
+    <ignored path="application/" />
+    <ignored path="application/adminassets/fonts/" />
+    <ignored path="application/adminassets/font-awesome/fonts/" />
+    <ignored path="application/adminassets/font-awesome/" />
+    <ignored path="application/adminassets/font-awesome/css/" />
+    <ignored path="Uploads/" />
+    <ignored path="application/controllers/admin/" />
+    <ignored path="application/controllers/" />
+    <ignored path="application/assets/js/" />
+    <ignored path="application/assets/libs/" />
+    <ignored path="application/cache/" />
+    <ignored path="application/config/" />
+    <ignored path="application/adminassets/scripts/" />
+    <ignored path="application/assets/" />
+    <ignored path="application/assets/css/" />
+    <ignored path="application/assets/fonts/" />
+    <ignored path="application/adminassets/img/" />
+    <ignored path="application/adminassets/plugins/" />
+    <ignored path="application/adminassets/plugins/bootstrap/" />
+    <ignored path="application/adminassets/plugins/dataTables/" />
+    <ignored path="application/adminassets/plugins/flot/" />
+    <ignored path="application/adminassets/plugins/metisMenu/" />
+    <ignored path="application/adminassets/plugins/morris/" />
+    <ignored path="application/adminassets/plugins/pace/" />
+    <ignored path="application/adminassets/plugins/social-buttons/" />
+    <ignored path="application/adminassets/plugins/timeline/" />
+    <ignored path="lib/css/fullcalendar/" />
+    <ignored path="lib/css/iCheck/" />
+    <ignored path="lib/css/iCheck/flat/" />
+    <ignored path="lib/css/datatables/" />
+    <ignored path="lib/css/colorpicker/" />
+    <ignored path="lib/css/datatables/images/" />
+    <ignored path="lib/css/daterangepicker/" />
+    <ignored path="lib/css/iCheck/futurico/" />
+    <ignored path="lib/css/iCheck/line/" />
+    <ignored path="lib/css/bootstrap-slider/" />
+    <ignored path="lib/css/bootstrap-wysihtml5/" />
+    <ignored path="lib/ajax/" />
+    <ignored path="lib/" />
+    <ignored path="lib/css/" />
+    <ignored path="assets/js/" />
+    <ignored path="assets/" />
+    <ignored path="assets/css/" />
+    <ignored path="assets/libs/" />
+    <ignored path="fonts/" />
+    <ignored path="images/adimage/" />
+    <ignored path="images/" />
+    <ignored path="application/views/js/" />
+    <ignored path="images/seller_images/" />
+    <ignored path="images/pro_pics/" />
+    <ignored path="images/uploads/" />
+    <ignored path="index.php" />
+    <ignored path=".htaccess" />
+    <ignored path=".gitignore" />
+    <ignored path=".travis.yml" />
+    <ignored path="license.txt" />
+    <ignored path="./" />
+    <ignored mask="*.htaccess" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Release02" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="my_messages.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/my_messages.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my_messages_model.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/models/my_messages_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
+              <folding>
+                <marker date="1408861454000" expanded="true" signature="115:218" placeholder="SELECT * FRO..messages..." />
+                <marker date="1408861454000" expanded="true" signature="378:479" placeholder="SELECT * FRO..messages..." />
+                <marker date="1408861454000" expanded="true" signature="640:742" placeholder="SELECT * FRO..messages..." />
+                <marker date="1408861454000" expanded="true" signature="899:946" placeholder="SELECT * FRO..users..." />
+                <marker date="1408861454000" expanded="true" signature="1533:1726" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my_messages_view.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/views/my_messages_view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="142" column="74" selection-start="9404" selection-end="9404" vertical-scroll-proportion="0.5904936" vertical-offset="2091" max-vertical-offset="4709">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="messages_watch_ajax.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/messages_watch_ajax.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="47" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="527">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="messages_ajax.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/messages_ajax.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="19" selection-start="746" selection-end="746" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="697">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery_ajax.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/gallery_ajax.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5950">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/application/views/admin.php" />
+        <option value="$PROJECT_DIR$/assets/js/messages_watch_ajax.js" />
+        <option value="$PROJECT_DIR$/application/views/my_messages_view.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Portability issues</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>UnusedDefine</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Release02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Release02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Release02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Release02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Release02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Release02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Release02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Release02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Release02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Release02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Release02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Release02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Release02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Release02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Release02" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="4cd518df-a37b-4cc9-a884-25c3199cb46c" server_name="KSTORE">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="789ebad1-0ba3-44a7-b268-72045c66d246" name="Default" comment="" />
+      <changelist id="9e82d0fc-3e82-47d7-b088-967b8bdf2012" name="Message" comment="" />
+      <created>1408897391282</created>
+      <updated>1408897391282</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="CVS" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21374622" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/controllers/my_messages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/my_messages_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
+          <folding>
+            <marker date="1408861454000" expanded="true" signature="115:218" placeholder="SELECT * FRO..messages..." />
+            <marker date="1408861454000" expanded="true" signature="378:479" placeholder="SELECT * FRO..messages..." />
+            <marker date="1408861454000" expanded="true" signature="640:742" placeholder="SELECT * FRO..messages..." />
+            <marker date="1408861454000" expanded="true" signature="899:946" placeholder="SELECT * FRO..users..." />
+            <marker date="1408861454000" expanded="true" signature="1533:1726" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/my_messages_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="149" column="76" selection-start="10083" selection-end="10083" vertical-scroll-proportion="0.0" vertical-offset="2193" max-vertical-offset="4709">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/messages_watch_ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="47" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/messages_ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="19" selection-start="746" selection-end="746" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/gallery_ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5950">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/my_messages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/my_messages_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
+          <folding>
+            <marker date="1408861454000" expanded="true" signature="115:218" placeholder="SELECT * FRO..messages..." />
+            <marker date="1408861454000" expanded="true" signature="378:479" placeholder="SELECT * FRO..messages..." />
+            <marker date="1408861454000" expanded="true" signature="640:742" placeholder="SELECT * FRO..messages..." />
+            <marker date="1408861454000" expanded="true" signature="899:946" placeholder="SELECT * FRO..users..." />
+            <marker date="1408861454000" expanded="true" signature="1533:1726" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/my_messages_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4743">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/messages_watch_ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="1" selection-start="324" selection-end="324" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/messages_ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="19" selection-start="746" selection-end="746" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="42" selection-start="1263" selection-end="1263" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="2533" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="5" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="2533" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="49" selection-start="1759" selection-end="1759" vertical-scroll-proportion="0.33272395" vertical-offset="549" max-vertical-offset="2533" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/my_messages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/my_messages_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="918">
+          <folding>
+            <marker date="1408861454000" expanded="true" signature="115:218" placeholder="SELECT * FRO..messages..." />
+            <marker date="1408861454000" expanded="true" signature="378:479" placeholder="SELECT * FRO..messages..." />
+            <marker date="1408861454000" expanded="true" signature="640:742" placeholder="SELECT * FRO..messages..." />
+            <marker date="1408861454000" expanded="true" signature="899:946" placeholder="SELECT * FRO..users..." />
+            <marker date="1408861454000" expanded="true" signature="1533:1726" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/messages_ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="19" selection-start="746" selection-end="746" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/gallery_ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5950">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/messages_watch_ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="47" selection-start="561" selection-end="561" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/my_messages_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="142" column="74" selection-start="9404" selection-end="9404" vertical-scroll-proportion="0.5904936" vertical-offset="2091" max-vertical-offset="4709">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
